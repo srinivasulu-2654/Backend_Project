@@ -34,3 +34,15 @@ This project uses **Node.js**, **Express**, and **MongoDB** for backend developm
    ```bash
    git clone https://github.com/<your-username>/<repository-name>.git
    cd <repository-name>
+   
+2. Install dependencies:
+
+npm install
+Set up MongoDB:
+
+Create a MongoDB database and obtain the connection string.
+Add the connection string to your project.
+Start the server:
+
+node server.js
+The app will run on http://localhost:3000
