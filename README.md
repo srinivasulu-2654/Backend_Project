@@ -36,13 +36,16 @@ This project uses **Node.js**, **Express**, and **MongoDB** for backend developm
    cd <repository-name>
    
 2. Install dependencies:
+  ```bash
+  npm install
 
-npm install
-Set up MongoDB:
+3. Set up MongoDB:
 
-Create a MongoDB database and obtain the connection string.
-Add the connection string to your project.
-Start the server:
+  ->Create a MongoDB database and obtain the connection string.
+  ->Add the connection string to your project.
 
-node server.js
-The app will run on http://localhost:3000
+4. Start the server:
+
+  ```bash
+  node server.js
+  The app will run on http://localhost:3000
